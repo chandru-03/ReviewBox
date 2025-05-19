@@ -21,7 +21,7 @@ A Spring Boot application for managing movie details and user reviews. Built wit
 * [Contributing](#contributing)
 * [License](#license)
 
----
+--_
 
 ## Features
 
