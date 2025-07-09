@@ -19,7 +19,6 @@ A Spring Boot application for managing movie details and user reviews. Built wit
   * [API Endpoints](#api-endpoints)
 * [Project Structure](#project-structure)
 * [Contributing](#contributing)
-* [License](#license)
 
 --_
 
@@ -145,6 +144,3 @@ Please adhere to the coding standards and include tests for new functionality.
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
